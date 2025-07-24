@@ -1,0 +1,58 @@
+.title_connexion{
+  background-color: #1e88e5;
+}
+
+.formulaire_container {
+background-color: #1e88e5;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: #f0f0f0;
+}
+
+.formulaire{
+  text-align: center;
+  color: white;
+  background-color: #1e88e5;
+  display: flex;
+  flex-direction: column;
+  gap: 1em; 
+  width: 80%;
+  padding: 2.5em;
+  height: 20em;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+.formulaire input {
+  padding: 0.5em;
+  font-size: 1em;
+  border: none;
+  border-radius: 4px;
+}
+.formulaire section {
+  display: flex;
+  gap: 1em;
+}
+
+.formulaire button {
+  width: 100%;
+  padding: 0.7em;
+  font-size: 1em;
+  border: none;
+  background-color: #fff;
+  color: #1e88e5;
+  font-weight: bold;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.formulaire button:hover {
+  background-color:#FFC006;
+  color: white;
+}
+
+.button_validation:hover{
+background-color: #FFC006;
+box-shadow:5px 2px 2px#f0f0f0;
+color:white
+}
