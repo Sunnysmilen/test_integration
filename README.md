@@ -15,7 +15,7 @@ L’objectif principal est de développer une application simple permettant :
 ---
 
 ## Fonctionnalités
-✅: validé , 🟠: en cours de développement
+✅: validé , 🟠: en cours de développement<br/>
 [✅] Formulaire d’inscription avec validation basique.<br/>
 [🟠] Sauvegarde sécurisée des données utilisateurs.<br/>
 [✅] Affichage personnalisé des informations lors de la connexion.<br/>
